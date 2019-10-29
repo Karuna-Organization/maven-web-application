@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.104.209:9980/mithuntechnologies/repository/maven-releases/</url>
+	      <url>http://13.126.201.54:8081/repository/Zomato-Release-p1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.104.209:9980/mithuntechnologies/repository/maven-snapshots/</url>
+	      <url>http://13.126.201.54:8081/repository/Zomato-Snapshot-p1/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
