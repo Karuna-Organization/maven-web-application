@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.238.58:8081/repository/Zomato-Release-p1/</url>
+	      <url>http://13.235.238.58:8081/repository/AmazonRelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.238.58:8081/repository/Zomato-Release-p1/</url>
+	      <url>http://13.235.238.58:8081/repository/AmazonSNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
